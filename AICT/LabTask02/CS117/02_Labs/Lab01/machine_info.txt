@@ -1,0 +1,20 @@
+Hardware:
+
+    Hardware Overview:
+
+      Model Name: MacBook Air
+      Model Identifier: MacBookAir10,1
+      Model Number: MGN63LL/A
+      Chip: Apple M1
+      Total Number of Cores: 8 (4 performance and 4 efficiency)
+      Memory: 8 GB
+      System Firmware Version: 13822.1.2
+      OS Loader Version: 13822.1.2
+      Serial Number (system): C02JFJN1Q6L4
+      Hardware UUID: DA2CE629-8173-5FD3-AB78-3E414A6976B2
+      Provisioning UDID: 00008103-000228C636D3401E
+      Activation Lock Status: Enabled
+
+Apple M1
+8
+8
