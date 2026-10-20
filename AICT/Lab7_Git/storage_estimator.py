@@ -11,4 +11,4 @@ celsius = float(input("Temperature in Celsius: "))
 fahrenheit = celsius * 9 / 5 + 32
 
 # Show the result
-print(f"Fahrenheit temperature: {fahrenheit} (converted from {celsius} Celsius)")
+print(f"{celsius} Celsius equals {fahrenheit} Fahrenheit")
